@@ -1,3 +1,6 @@
+![image](https://github.com/raise89/text-utility/assets/95764819/f869ea99-d380-4bb2-801b-902f2df556e1)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
